@@ -21,5 +21,5 @@ https://www.bingle.pw/
 
 **Direct Link:**  
 
-<a href="https://github.com/Bingle-Proxy/Application-PC/releases/download/1.0.0/Bingle.Proxy_Win64.exe"><img src="https://github.com/Bingle-Proxy/application/assets/161473759/8f812677-db6a-41cf-80b4-aedace5d1f36"></img></a>
+<a href="https://github.com/Bingle-Proxy/Application-PC/releases"></a>
 
