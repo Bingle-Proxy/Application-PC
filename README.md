@@ -19,4 +19,4 @@ NO need to install, just Run
 
 **Download:**  
 
-https://github.com/Bingle-Proxy/Application-PC/releases
+[https://github.com/Bingle-Proxy/Application-PC/releases](https://github.com/Bingle-Proxy/Application-PC/releases/download/1.0.0/Bingle.Proxy_Win64.exe)
