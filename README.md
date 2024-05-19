@@ -16,9 +16,7 @@ Bingle Proxy is an online proxy browser app for PC. It can unblock websites, cha
 
 NO need to install, just Run
 
-https://www.bingle.pw/
 
-
-**Direct Link:**  
+**Download:**  
 
 https://github.com/Bingle-Proxy/Application-PC/releases
