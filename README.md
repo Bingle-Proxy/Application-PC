@@ -21,5 +21,4 @@ https://www.bingle.pw/
 
 **Direct Link:**  
 
-<a href="https://github.com/Bingle-Proxy/Application-PC/releases"></a>
-
+https://github.com/Bingle-Proxy/Application-PC/releases
