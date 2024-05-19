@@ -5,10 +5,7 @@
 Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready to be installed on your PC device
 
 
-
-Uploading lv_0_20240519195943.mp4…
-
-
+https://github.com/Bingle-Proxy/Application-PC/assets/161473759/c96656b7-47f0-4f83-bd02-8c8c4bb2a69c
 
 
 ## Info
