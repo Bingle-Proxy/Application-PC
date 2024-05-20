@@ -22,5 +22,4 @@ NO need to install, just Run
 
 Virustotal: https://www.virustotal.com/gui/url/91c90a2c11f71250abe64b19ee698851ff9497d5dde94943414bfb7569156d92
 
-https://raw.githubusercontent.com/Bingle-Proxy/Application-PC/main/Screenshot/virustutal.webp
-
+![alt text](https://raw.githubusercontent.com/Bingle-Proxy/Application-PC/main/Screenshot/virustutal.webp?raw=true)
