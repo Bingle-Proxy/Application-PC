@@ -5,8 +5,6 @@
 Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready to be installed on your PC device
 
 
-https://github.com/Bingle-Proxy/Application-PC/assets/161473759/c96656b7-47f0-4f83-bd02-8c8c4bb2a69c
-
 
 ## Info
 
@@ -16,7 +14,13 @@ Bingle Proxy is an online proxy browser app for PC. It can unblock websites, cha
 
 NO need to install, just Run
 
+## Download
 
-**Download:**  
+[Direct Link](https://github.com/Bingle-Proxy/Application-PC/releases/download/1.0.0/Bingle.Proxy_Win64.exe)
 
-[https://github.com/Bingle-Proxy/Application-PC/releases](https://github.com/Bingle-Proxy/Application-PC/releases/download/1.0.0/Bingle.Proxy_Win64.exe)
+## security
+
+Virustotal: https://www.virustotal.com/gui/url/91c90a2c11f71250abe64b19ee698851ff9497d5dde94943414bfb7569156d92
+
+https://raw.githubusercontent.com/Bingle-Proxy/Application-PC/main/Screenshot/virustutal.webp
+
