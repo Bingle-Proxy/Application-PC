@@ -1,5 +1,5 @@
 
-# Bingle Proxy for PC
+# Bingle Proxy for Windows
 
 
 Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready to be installed on your PC device
@@ -14,7 +14,12 @@ Bingle Proxy is an online proxy browser app for PC. It can unblock websites, cha
 
 ## Installation
 
-NO need to install, just Run
+NO need to install, just Run and pin to taskbar
+
+
+## Requirements
+
+Operating system: Windows 7,8,9,10,11,12,13,...,∞
 
 
 ## Download
