@@ -1,3 +1,4 @@
+
 function CreateWhatsappChatWidget(option = {
     brandSetting: {
         backgroundColor: "#085B53",
@@ -98,7 +99,7 @@ function CreateWhatsappChatWidget(option = {
                             </svg>
                         <span class="wa-chat-box-content-send-btn-text">${option.brandSetting.ctaText}</span>
                     </a>
-                    <div class='wa-chat-box-poweredby'>by <a href="https://www.bingle.pw/" target="_blank">Bingle Proxy</a></div>
+                    <div class='wa-chat-box-poweredby'>by <a href="https://edna.io/" target="_blank">edna.io</a></div>
                 </div>
             </div>
         `);
@@ -184,7 +185,7 @@ function CreateWhatsappChatWidget(option = {
             border-radius: 10px;
         }
         .wa-chat-box-content{
-            background: url('https://raw.githubusercontent.com/Bingle-Proxy/Application/main/build/apk/res/anim/Bingle-Proxy.png');
+            background: url('${option.host}/wp-content/plugins/whatsapp-widget-generator/img/wa-bckg.png');
         }
         .wa-chat-bubble-close-btn{
             cursor: pointer;
