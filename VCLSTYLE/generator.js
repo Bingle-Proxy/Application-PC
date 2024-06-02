@@ -1,4 +1,3 @@
-
 function CreateWhatsappChatWidget(option = {
     brandSetting: {
         backgroundColor: "#085B53",
