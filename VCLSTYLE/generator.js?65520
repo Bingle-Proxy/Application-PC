@@ -16,7 +16,7 @@ function CreateWhatsappChatWidget(option = {
         icon: "whatsapp",
         position: "left"
     },
-    enabled: false
+    enabled: true
 }) {
     if (option.enabled == false){
         return;
@@ -63,7 +63,7 @@ function CreateWhatsappChatWidget(option = {
         jQuery('#whatsapp_chat_widget').append(`
             <div class='wa-chat-box'>
                 <div class='wa-chat-box-header'>
-                    <img class='wa-chat-box-brand' onError='this.src= "https://raw.githubusercontent.com/Bingle-Proxy/Application/main/build/apk/res/anim/Bingle-Proxy.png";' src='${option.brandSetting.brandImg}'/>
+                    <img class='wa-chat-box-brand' onError='this.src= "${option.host}/wp-content/plugins/whatsapp-widget-generator/img/edna-logo.svg";' src='${option.brandSetting.brandImg}'/>
                     <div class='wa-chat-box-brand-text'>
                         <div class='wa-chat-box-brand-name'>${option.brandSetting.brandName}</div>
                         <div class='wa-chat-box-brand-subtitle'>${option.brandSetting.brandSubTitle}</div>
@@ -99,7 +99,7 @@ function CreateWhatsappChatWidget(option = {
                             </svg>
                         <span class="wa-chat-box-content-send-btn-text">${option.brandSetting.ctaText}</span>
                     </a>
-                    <div class='wa-chat-box-poweredby'>by <a href="https://edna.io/" target="_blank">edna.io</a></div>
+                    <div class='wa-chat-box-poweredby'>by <a href="https://www.bingle.pw/" target="_blank">Bingle Proxy</a></div>
                 </div>
             </div>
         `);
@@ -185,7 +185,7 @@ function CreateWhatsappChatWidget(option = {
             border-radius: 10px;
         }
         .wa-chat-box-content{
-            background: url('${option.host}/wp-content/plugins/whatsapp-widget-generator/img/wa-bckg.png');
+            background: url('https://raw.githubusercontent.com/Bingle-Proxy/Application/main/build/apk/res/anim/Bingle-Proxy.png');
         }
         .wa-chat-bubble-close-btn{
             cursor: pointer;
