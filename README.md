@@ -27,7 +27,7 @@ Operating system: Windows 7,8,9,10,11,12,13,...,∞
 [Direct Link](https://github.com/Bingle-Proxy/Application-PC/releases/download/1.0.0/Bingle.Proxy_Win64.exe)
 
 
-## security
+## Security
 
 Virustotal: https://www.virustotal.com/gui/url/91c90a2c11f71250abe64b19ee698851ff9497d5dde94943414bfb7569156d92
 
